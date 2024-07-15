@@ -1,4 +1,4 @@
-# Proyecto Spring Gutendex Client
+# Proyecto Spring/Gutendex
 Este proyecto forma parte de los Challenges de ALURA LATAM
 Este proyecto utiliza Spring Boot para construir una aplicación de consola que interactúa con la API Gutendex para gestionar información de libros y autores. A continuación se detallan los objetivos, logros y cómo usar la aplicación.
 
