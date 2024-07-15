@@ -39,9 +39,6 @@ Este proyecto utiliza Spring Boot para construir una aplicación de consola que 
    - Pruebas unitarias y de integración para verificar el funcionamiento correcto de los servicios y repositorios.
    - Simulación de diferentes escenarios para manejar errores y casos límite.
 
-## CREADO POR
-## DAVID ALMAZAN MOYA
-
 ### Requisitos Previos
 
 - Java 17 instalado.
